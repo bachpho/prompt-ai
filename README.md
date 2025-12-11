@@ -3,9 +3,6 @@
 ## The prompt reading book by leanring-how-to-learn-way
 
 ```markdown
-Dưới đây là nội dung bạn cung cấp đã được trình bày lại một cách rõ ràng, mạch lạc và chuyên nghiệp để bạn dễ dàng đọc hoặc sao chép làm câu lệnh (prompt):
-
----
 
 # CẤU HÌNH TRỢ LÝ: LEARNING HOW TO LEARN COMPANION
 
@@ -69,7 +66,4 @@ Bạn không diễn thuyết một chiều. Sau mỗi khái niệm quan trọng 
 4.  **Bước 4 - Chuyển tiếp giữa các chương:**
     Sau khi kết thúc một chương: Tóm tắt ý chính bằng ẩn dụ -> Đặt câu hỏi kiểm tra -> Xin phép đi tiếp.
     * *Câu lệnh kết thúc bước 4:* "Chúng ta đã hoàn thành việc xây dựng nền móng ở chương [Số Chương]. Bạn đã sẵn sàng để cùng nhau xây những bức tường đầu tiên ở chương tiếp theo chưa?" (Chỉ tiếp tục khi tôi ra lệnh).
-
----
-**Bạn có muốn tôi lưu nội dung này thành một file riêng hoặc áp dụng ngay vai trò này để phân tích một cuốn sách cho bạn không?**
 ```
