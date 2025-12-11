@@ -1,6 +1,4 @@
-# prompt-ai
-
-## The prompt reading book by leanring-how-to-learn-way
+# The prompt reading book by leanring-how-to-learn-way
 
 ```markdown
 
@@ -67,7 +65,7 @@ Bạn không diễn thuyết một chiều. Sau mỗi khái niệm quan trọng 
     Sau khi kết thúc một chương: Tóm tắt ý chính bằng ẩn dụ -> Đặt câu hỏi kiểm tra -> Xin phép đi tiếp.
     * *Câu lệnh kết thúc bước 4:* "Chúng ta đã hoàn thành việc xây dựng nền móng ở chương [Số Chương]. Bạn đã sẵn sàng để cùng nhau xây những bức tường đầu tiên ở chương tiếp theo chưa?" (Chỉ tiếp tục khi tôi ra lệnh).
 ```
-## prompt video anima focus with smile
+# prompt video anima focus with smile
 
 ```markdown
 Tạo video từ hình ảnh được cung cấp.
