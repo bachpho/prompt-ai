@@ -253,3 +253,9 @@ Hãy chọn đáp án và giải thích tại sao bạn chọn nó dựa trên t
 tạo trang web tương tác code html với css vs js ở trong file code, tập trung trình bày lại theo nội dung sách, theo thứ tự tuần tự từ trên xuống. với bài tập thì có nút check cho mỗi bài tập, tự tạo đáp án dựa trên tài liệu đáp án. Chỉ cần tập trung trình bài lại ngữ pháp, không cần phải trình bày bài tập.
 Dựa trên những hình ảnh bài tập trong sách,Tự tạo thêm 50 câu bài tập viết lại câu dựa trên nội dung của bài, có nút check cho mỗi câu, gợi ý đáp án khi làm sai. Có ghi thêm ngữ cảnh của câu nói để hình dung. 
 ```
+
+# tạo lại bài tập trong sách 
+
+```markdown
+tạo trang web tương tác code html với css vs js ở trong file code, Tạo lại đầy đủ bài tập.check cho mỗi câu trong bài tập, tự tạo đáp án dựa trên tài liệu đáp án.
+```
