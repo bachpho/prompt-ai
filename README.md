@@ -263,6 +263,9 @@ tạo trang web tương tác code html với css vs js ở trong file code, Tạ
 # tạo câu viết lại câu
 
 ```markdown
-tạo câu viết lại câu dựa trên các phần thử thách ở trên, có bối cảnh, và những từ cần viết.
+tạo trang html với css và js trong file. với nội dung
+trình bày lại những phần nội dung lí thuyết một cách ngắn gọn nhưng đầy đủ nội dung.
+50 bài tập viết lại câu.
+tạo câu viết lại câu dựa trên các phần thử thách ở trên, có bối cảnh, và những từ cần viết. có nút submit cho mỗi câu, và khi submit sai thì hiển thị đáp án gợi ý. Bỏ qua những  lỗi chính tả dấu câu in hoa in thường. sau khi submit nếu đáp án đúng thì sẽ hiển thị giải thích về việc tại sao với ngữ cảnh đó thì lại sử dụng cấu trúc ngữ pháp đó. 
 ```
 
