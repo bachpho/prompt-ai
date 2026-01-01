@@ -259,3 +259,10 @@ Dựa trên những hình ảnh bài tập trong sách,Tự tạo thêm 50 câu 
 ```markdown
 tạo trang web tương tác code html với css vs js ở trong file code, Tạo lại đầy đủ bài tập.check cho mỗi câu trong bài tập, tự tạo đáp án dựa trên tài liệu đáp án.
 ```
+
+# tạo câu viết lại câu
+
+```markdown
+tạo câu viết lại câu dựa trên các phần thử thách ở trên, có bối cảnh, và những từ cần viết.
+```
+
