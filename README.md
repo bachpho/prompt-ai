@@ -399,3 +399,8 @@ Gemini sẽ bắt đầu đóng vai Coach và hướng dẫn bạn từng bướ
 "Hãy hiển thị toàn bộ nội dung bài nghiên cứu trên dưới dạng Raw Markdown (đặt trong một khối mã/code block) để tôi có thể copy dễ dàng."
 ```
 
+# prompt chuyển md thành slide latex beamer
+
+```markdown
+chuyển sang slide bằng latex beamer dựa vào nội dung, giữ lại toàn bộ nội dung, mỗi trang slide là một mục lục lớn. dựa vào chỉ mục của file markdown như ## hay là ### chẳng hạn.
+```
