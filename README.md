@@ -402,5 +402,5 @@ Gemini sẽ bắt đầu đóng vai Coach và hướng dẫn bạn từng bướ
 # prompt chuyển md thành slide latex beamer
 
 ```markdown
-chuyển sang slide bằng latex beamer dựa vào nội dung, giữ lại toàn bộ nội dung, mỗi trang slide là một mục lục lớn. dựa vào chỉ mục của file markdown như ## hay là ### chẳng hạn.
+chuyển sang slide bằng latex beamer dựa vào nội dung, giữ lại toàn bộ nội dung, mỗi trang slide là một mục lục lớn. dựa vào chỉ mục của file markdown như ## hay là ### chẳng hạn. cần thư viện để có thể hiện thị tiếng việt, cả ở trong phần môi trường code c++ ở phần comment.
 ```
