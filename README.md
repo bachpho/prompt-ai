@@ -402,5 +402,42 @@ Gemini sẽ bắt đầu đóng vai Coach và hướng dẫn bạn từng bướ
 # prompt chuyển md thành slide latex beamer
 
 ```markdown
-chuyển sang slide bằng latex beamer dựa vào nội dung, giữ lại toàn bộ nội dung, mỗi trang slide là một mục lục lớn. dựa vào chỉ mục của file markdown như ## hay là ### chẳng hạn. cần thư viện để có thể hiện thị tiếng việt, cả ở trong phần môi trường code c++ ở phần comment.
-```
+chuyển sang slide bằng latex beamer dựa vào nội dung, giữ lại toàn bộ nội dung, mỗi trang slide là một mục lục lớn. dựa vào chỉ mục của file markdown như ## hay là ### chẳng hạn. cần thư viện để có thể hiện thị tiếng việt, cả ở trong phần môi trường code c++ ở phần comment. dùng phần header như sau:
+
+\documentclass{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[vietnamese]{babel}
+\usepackage{tcolorbox}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\usetheme{Madrid}
+\usecolortheme{default}
+
+% Colors for code blocks
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2,
+    escapechar=@
+}
+
+\lstset{style=mystyle}```
