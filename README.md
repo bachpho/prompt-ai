@@ -401,7 +401,10 @@ Gemini sẽ bắt đầu đóng vai Coach và hướng dẫn bạn từng bướ
 
 # prompt chuyển md thành slide latex beamer
 
-```markdown\documentclass{beamer}
+```markdown
+chuyển file mardown thành latex beamer với header như sau:
+
+\documentclass{beamer}
 \usepackage[utf8]{inputenc}
 \usepackage[vietnamese]{babel}
 \usepackage{tcolorbox}
