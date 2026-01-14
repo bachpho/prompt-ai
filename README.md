@@ -75,7 +75,7 @@ Tạo video từ hình ảnh được cung cấp.
 3.  **Ánh nhìn (Quan trọng):** Luôn **duy trì ánh mắt nhìn thẳng vào ống kính (maintain eye contact directly with the camera)**.
 4.  **Kết thúc:** Dừng ở ** cận cảnh (Close-up)**, tập trung vào gương mặt.
 **ƯU TIÊN 2: BIỂU CẢM (Đơn giản & Đồng thời)**
-1.  **Quá trình:** Khi máy quay bắt đầu zoom, cô gái từ từ chuyển biểu cảm sang một **nụ cười ngọt ngào, trẻ trung và rất tự nhiên (a sweet, youthful, and very natural smile). Sau khi đạt đến nụ cười rạng rỡ nhất, chuyển sang một biểu cảm hạnh phúc (A blissful expression, featuring bright, loving eyes.).
+1.  **Quá trình:** Khi máy quay bắt đầu zoom, cô gái từ từ chuyển biểu cảm sang một **nụ cười ngọt ngào, trẻ trung và rất tự nhiên (a sweet, youthful, and very natural smile). Sau khi đạt đến nụ cười rạng rỡ nhất, chuyển sang một biểu cảm hạnh phúc, dễ thương (A blissful expression, featuring bright, loving eyes, cute.).
 2.  **Chi tiết nụ cười:** Nụ cười trìu mến, ấm áp, và tạo ra **"mắt cười" (eye smile)**.
 3.  **Tốc độ:** Chuyển động và nụ cười đều diễn ra chậm, nhẹ nhàng.
 **[MUSIC/SOUND]**: Thêm nhạc nền nhẹ nhàng, du dương (Ambient/Lo-fi/Ballad Piano).
