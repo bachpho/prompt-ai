@@ -401,10 +401,7 @@ Gemini sẽ bắt đầu đóng vai Coach và hướng dẫn bạn từng bướ
 
 # prompt chuyển md thành slide latex beamer
 
-```markdown
-chuyển sang slide bằng latex beamer dựa vào nội dung, giữ lại toàn bộ nội dung, mỗi trang slide là một mục lục lớn. dựa vào chỉ mục của file markdown như ## hay là ### chẳng hạn. cần thư viện để có thể hiện thị tiếng việt, cả ở trong phần môi trường code c++ ở phần comment. dùng phần header như sau:
-
-\documentclass{beamer}
+```markdown\documentclass{beamer}
 \usepackage[utf8]{inputenc}
 \usepackage[vietnamese]{babel}
 \usepackage{tcolorbox}
@@ -426,13 +423,13 @@ chuyển sang slide bằng latex beamer dựa vào nội dung, giữ lại toàn
     keywordstyle=\color{magenta},
     numberstyle=\tiny\color{codegray},
     stringstyle=\color{codepurple},
-    basicstyle=\ttfamily\footnotesize,
+    basicstyle=\ttfamily\scriptsize,
     breakatwhitespace=false,         
     breaklines=true,                 
     captionpos=b,                    
     keepspaces=true,                 
     numbers=left,                    
-    numbersep=5pt,                  
+    numbersep=4pt,                  
     showspaces=false,                
     showstringspaces=false,
     showtabs=false,                  
@@ -440,4 +437,5 @@ chuyển sang slide bằng latex beamer dựa vào nội dung, giữ lại toàn
     escapechar=@
 }
 
-\lstset{style=mystyle}```
+\lstset{style=mystyle}
+```
