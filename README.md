@@ -396,7 +396,7 @@ Gemini sẽ bắt đầu đóng vai Coach và hướng dẫn bạn từng bướ
 # prompt chuyển thành markdown
 
 ```markdown
-"Hãy hiển thị toàn bộ nội dung bài nghiên cứu trên dưới dạng Raw Markdown hiển thị ở trong khung chat của gemini
+"Hãy hiển thị toàn bộ nội dung bài nghiên cứu trên hiển thị ở trong khung chat của gemini
 ```
 
 # prompt chuyển md thành slide latex beamer
