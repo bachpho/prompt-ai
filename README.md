@@ -266,7 +266,7 @@ tạo trang web tương tác code html với css vs js ở trong file code, Tạ
 tạo trang html với css và js trong file. với nội dung
 trình bày lại những phần nội dung lí thuyết một cách ngắn gọn nhưng đầy đủ nội dung.
 50 bài tập viết lại câu.
-tạo câu viết lại câu dựa trên các phần thử thách ở trên, có bối cảnh, và những từ cần viết. có nút submit cho mỗi câu, và khi submit sai thì hiển thị đáp án. ở phần bối cảnh thì cần làm rõ ràng như trong phần thử thách ở trên một cách rõ ràng cụ thể, nên là một bối cảnh dài đầy đủ. Bỏ qua những  lỗi chính tả dấu câu in hoa in thường. sau khi submit nếu đáp án đúng thì sẽ hiển thị giải thích về việc tại sao với ngữ cảnh đó thì lại sử dụng cấu trúc ngữ pháp đó. 
+tạo câu viết lại câu dựa trên các phần thử thách ở trên, có bối cảnh, và những từ cần viết, như là: I / play / game (chẳng hạn như thế). có nút submit cho mỗi câu, và khi submit sai thì hiển thị đáp án. ở phần bối cảnh thì cần làm rõ ràng như trong phần thử thách ở trên một cách rõ ràng cụ thể, nên là một bối cảnh dài đầy đủ. Bỏ qua những  lỗi chính tả dấu câu in hoa in thường. sau khi submit nếu đáp án đúng thì sẽ hiển thị giải thích về việc tại sao với ngữ cảnh đó thì lại sử dụng cấu trúc ngữ pháp đó. 
 ```
 
 # learning how to learn for code
