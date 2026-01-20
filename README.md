@@ -502,8 +502,8 @@ Trắc nghiệm: Sử dụng lệnh \pause trước khi hiện đáp án để t
 Toán học: Đảm bảo các công thức toán học đặt trong $ $ hợp lệ, không dùng ký tự đặc biệt của LaTeX (như &, %) bên ngoài môi trường code mà không escape."
 
 ```
-\lstset{style=mystyle}
-```
+
+
 
 
 # promt slide cpp exercise
