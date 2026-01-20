@@ -506,7 +506,7 @@ Toán học: Đảm bảo các công thức toán học đặt trong $ $ hợp l
 
 
 
-# promt slide cpp exercise
+# promt slide cpp list exercise
 
 ```markdown
 
@@ -610,3 +610,109 @@ Toán học: Đảm bảo các công thức toán học đặt trong $ $ hợp l
 
 mỗi slide là một bài tập, link , bao gồm đề tiếng việt đầy đủ, gợi ý hướng giải quyết tóm tắt. 
 ```
+
+# promt slide cpp solve exercise
+
+```markdown
+
+"Hãy chuyển nội dung markdown này thành file LaTeX Beamer (.tex).
+
+
+
+Header bắt buộc:
+
+Đoạn mã
+
+
+
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+
+\usepackage[T5]{fontenc} % Bắt buộc để hiển thị tiếng Việt
+
+\usepackage[vietnamese]{babel}
+
+\usepackage{tcolorbox}
+
+\usepackage{listings}
+
+\usepackage{xcolor}
+
+\usepackage{booktabs}
+
+\usetheme{Madrid}
+
+
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+
+
+\lstdefinestyle{mystyle}{
+
+    backgroundcolor=\color{backcolour},   
+
+    commentstyle=\color{codegreen},
+
+    keywordstyle=\color{magenta},
+
+    numberstyle=\tiny\color{codegray},
+
+    stringstyle=\color{codepurple},
+
+    basicstyle=\ttfamily\scriptsize,
+
+    breakatwhitespace=false,         
+
+    breaklines=true,                 
+
+    captionpos=b,                    
+
+    keepspaces=true,                 
+
+    numbers=left,                    
+
+    numbersep=4pt,                  
+
+    showspaces=false,                
+
+    showstringspaces=false,
+
+    showtabs=false,                  
+
+    tabsize=2,
+
+    escapechar=@
+
+}
+
+
+
+\lstset{style=mystyle}
+
+
+
+% (Kèm theo config màu sắc listings của bạn)
+
+Yêu cầu quan trọng để tránh lỗi biên dịch:
+
+KHÔNG dùng Emoji: Thay thế các emoji (như 🧠, ⚠️, 🚀) bằng \begin{block}, \begin{alertblock}, hoặc \begin{exampleblock} tương ứng.
+
+Xử lý biến số: Nếu trong văn bản có tên biến chứa dấu gạch dưới (ví dụ current_level), hãy đặt nó trong \texttt{current\_level} và escape dấu _.
+
+Slide chứa code: Bắt buộc dùng \begin{frame}[fragile] nếu slide đó có chứa môi trường lstlisting hoặc verbatim.
+
+Trắc nghiệm: Sử dụng lệnh \pause trước khi hiện đáp án để tạo hiệu ứng trình chiếu.
+
+Toán học: Đảm bảo các công thức toán học đặt trong $ $ hợp lệ, không dùng ký tự đặc biệt của LaTeX (như &, %) bên ngoài môi trường code mà không escape."
+
+trình bày lại slide theo từng bước tiếp cận, theo kịch bản trên file markdown, lưu ý khi trình bày psudocode thì viết bằng tiếng việt không dấu.
+```
+
