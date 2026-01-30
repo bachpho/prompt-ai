@@ -716,3 +716,8 @@ Toán học: Đảm bảo các công thức toán học đặt trong $ $ hợp l
 trình bày lại slide theo từng bước tiếp cận, theo kịch bản trên file markdown, lưu ý khi trình bày psudocode thì viết bằng tiếng việt không dấu.
 ```
 
+# promp text to speech uk-coversation 
+
+```markdown
+An authentic and lively TTS voice model for a native RP (Received Pronunciation) speaker. The style should be natural and conversational, mirroring the quick, connected flow of everyday English. The voice is friendly and engaging, similar to a presenter on BBC Learning English. Key elements include the use of connected speech (blending words together), a focus on the unstressed schwa sound (the 'uh' sound in words like 'about'), and natural stress and intonation to create a clear and rhythmic tone. The overall effect is a fast yet perfectly clear delivery, ideal for learners aiming to sound like a native in casual conversation.
+```
